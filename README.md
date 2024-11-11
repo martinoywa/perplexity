@@ -1,1 +1,2 @@
-Consider creating package for calculating perplexity for llms
+- Consider creating package for calculating perplexity for llms.
+- Expand capabilities to other accuracy or performance metrics like BLUE, ROGUE, Accuracy.
